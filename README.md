@@ -1,2 +1,2 @@
 # gbwnn
-graph bandwidth wavelet neural network 
+graph bandpass wavelet neural network 
